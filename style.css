@@ -1,4 +1,4 @@
-html{
+html, body{
     overflow-x: hidden; 
 }
 
@@ -491,6 +491,6 @@ h3{
 
 
 
-.imagem, .text, .partetwo, .card .aboutimg .abouttext{
+/*.imagem, .text, .partetwo, .card .aboutimg .abouttext{
     visibility: hidden;
-}
+}*/
